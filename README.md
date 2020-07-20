@@ -1,4 +1,4 @@
 # Monte-Carlo-Localisation
 
 
-<img src = "mcl-gif.gif" width = "300"> 
+<img src = "mcl-gif.gif" width = "800"> 
